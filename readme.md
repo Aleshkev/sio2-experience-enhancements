@@ -19,3 +19,5 @@ Oczywiście przestaje to działać jeżeli połowa opcji zaczyna się od `Zadani
 Mam nadzieję, że to co napisałem ma sens, pewnie to kiedyś poprawię jak mi się będzie nudziło.
 
 W każdym razie ten skrypt usuwa we wszystkich prostych (nie zawierających innych elementów wewnątrz) elementach początkowe "Zadanie".
+
+[`raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js`](https://raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js.)
