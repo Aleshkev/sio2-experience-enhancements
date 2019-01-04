@@ -8,7 +8,7 @@ However, it is not completely perfect. I've made these small [Tampermonkey](http
 
 *Short explanation for non-Polish people:* for no particular reason some tasks on SIO2 begin their names with *Zadanie*, completely redundantly. This script removes these prefixes.
 
-Z niewytłumaczalnych przyczyn (powinienem może kogoś o spytać dlaczego, ale na razie AFAIK są to niewytłumaczalne przyczyny; podejrzewam eksportowanie zadań z innego systemu) niektóre zadania na SIO2 zamiast nazywać się po prostu *Wieża, Statystyki, Palindromy* czy *Na odwrót,* nazywają się *Zadanie Wieża, Zadanie Statystyki, Zadanie Palindromy* i *Zadanie Na odwrót.*
+Z niewytłumaczalnych przyczyn (powinienem może kogoś spytać dlaczego, ale na razie AFAIK są to niewytłumaczalne przyczyny; podejrzewam eksportowanie zadań z innego systemu) niektóre zadania na SIO2 zamiast nazywać się po prostu *Wieża, Statystyki, Palindromy* czy *Na odwrót,* nazywają się *Zadanie Wieża, Zadanie Statystyki, Zadanie Palindromy* i *Zadanie Na odwrót.*
 
 Nie byłoby to wielkim problemem, gdyby nie strona do zgłaszania zadań. Gdyż tam jest pole wyboru zadania, do którego chcę zgłosić rozwiązanie.
 
