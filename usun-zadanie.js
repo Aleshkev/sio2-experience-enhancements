@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Usuń "Zadanie"
-// @namespace    https://aleshkev.github.io/
+// @namespace    https://github.com/Aleshkev/sio2-experience-enhancements
+// @downloadURL  https://raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js
 // @version      0.1
 // @description  Usuwa tekst "Zadanie" przed prawdziwą nazwą zadania.
 // @author       Jonas Aleshkevich
