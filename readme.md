@@ -20,4 +20,4 @@ Mam nadzieję, że to co napisałem ma sens, pewnie to kiedyś poprawię jak mi 
 
 W każdym razie ten skrypt usuwa we wszystkich prostych (nie zawierających innych elementów wewnątrz) elementach początkowe "Zadanie".
 
-[`raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js`](https://raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js.)
+[`raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js`](https://raw.githubusercontent.com/Aleshkev/sio2-experience-enhancements/master/usun-zadanie.js)
