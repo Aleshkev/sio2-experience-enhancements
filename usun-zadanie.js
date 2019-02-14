@@ -14,7 +14,7 @@
 (function () {
   'use strict';
 
-  let options = $("*");
+  let options = $("*:not(oioioi-message *)");
   options.each(i => {
     let o = options[i];
     if(o.text != o.innerHTML) return;  // Skip complex elements.
